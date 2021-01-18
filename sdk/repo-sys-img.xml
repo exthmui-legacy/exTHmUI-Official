@@ -14,7 +14,7 @@
                 <sdk:size>623782540</sdk:size>
                 <sdk:checksum type='sha1'>63759bc0188e5de04510994487861ccca69a3567</sdk:checksum>
 		<sdk:url>https://cloud.kawasirosoft.com:5213/api/v3/file/get/17455/exthm-10-x86-sdk-eng.zip?sign=TvnC2PySGUDZqBsPES3yH8q0tvA4UdsVQkCCsJDDdKc%3D%3A0</sdk:url>
-        <sdk:host-os>linux</sdk:host-os>
+        <sdk:host-os>windows</sdk:host-os>
             </sdk:archive>
         </sdk:archives>
     </sdk:system-image>
