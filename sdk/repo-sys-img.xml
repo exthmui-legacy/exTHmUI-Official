@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<sdk:sdk-sys-img
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:sdk="http://schemas.android.com/sdk/android/sys-img/3">
+    <sdk:system-image>
+        <sdk:revision>6</sdk:revision>
+        <sdk:description>exTHmUI Android SDK Developer System Image x86</sdk:description>
+        <sdk:api-level>29</sdk:api-level>
+        <sdk:abi>x86</sdk:abi>
+        <sdk:tag-id>default</sdk:tag-id>
+        <sdk:tag-display>Default Android System Image</sdk:tag-display>
+        <sdk:archives>
+            <sdk:archive>
+                <sdk:size>623782540</sdk:size>
+                <sdk:checksum type='sha1'>63759bc0188e5de04510994487861ccca69a3567</sdk:checksum>
+		<sdk:url>https://cloud.kawasirosoft.com:5213/api/v3/file/get/17455/exthm-10-x86-sdk-eng.zip?sign=TvnC2PySGUDZqBsPES3yH8q0tvA4UdsVQkCCsJDDdKc%3D%3A0</sdk:url>
+        <sdk:host-os>linux</sdk:host-os>
+            </sdk:archive>
+        </sdk:archives>
+    </sdk:system-image>
+</sdk:sdk-sys-img>
